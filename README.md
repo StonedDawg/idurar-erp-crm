@@ -34,7 +34,7 @@ Ant Design Framework(AntD) 🐜
 
 Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
 
-### May i can use IDURAR for Commercial use :
+### May i use IDURAR for Commercial use :
 
 - Yes You can use IDURAR for free for personal or Commercial use.
 
